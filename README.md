@@ -22,6 +22,6 @@
 - Хранение задач
 
 **Результат:** Рабочее приложение для отслеживания личных задач.
-
+<img width="467" height="586" alt="изображение" src="https://github.com/user-attachments/assets/1b7e1211-481c-4e7f-ad63-9eb0caca2569" />
 
 by vafla1441
